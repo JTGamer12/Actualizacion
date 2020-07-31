@@ -1,4 +1,4 @@
 
-<version:1.01>
-/data/test.zip https://es.wordpress.org/latest-es_ES.zip
+<version:1.02>
+/data/Map003.json
 <End Of Version>
